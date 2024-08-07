@@ -64,5 +64,28 @@ Open the application in a web browser.
 5. Manage Assets: View, edit, or remove assets as needed.
 6. Transactions: Facilitate asset transfers and manage ownership changes.
 
+1. Register
+![image](https://github.com/user-attachments/assets/0c5075d9-68c3-466a-8776-16a8bc8d72aa)
+
+2. Login
+![image](https://github.com/user-attachments/assets/39be9b03-20b9-4c1a-9bcf-c81144743572)
+
+3. Dashboard
+![image](https://github.com/user-attachments/assets/b8b6a488-f15c-4d53-8a2a-c6a2ff53a3df)
+
+4. Add Property
+![image](https://github.com/user-attachments/assets/5051dcb8-6140-4e5e-8209-92cd10575a28)
+
+5. Buy
+![image](https://github.com/user-attachments/assets/43e70aca-ea74-4f6d-84eb-c8793704ad4a)
+
+6. View my property
+![image](https://github.com/user-attachments/assets/5db395b4-e9c6-4d66-98c9-15e2d1ff4b1b)
+
+7. ER diagram
+![image](https://github.com/user-attachments/assets/7f5b9d5f-8d26-44e3-8683-fdb5af955b43)
+
+
+
 
 Team Members: [Jay Pandya](https://github.com/Pjay001) and [Vijay Joshi](https://github.com/VijayJoshi17)
