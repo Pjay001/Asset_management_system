@@ -88,4 +88,4 @@ Open the application in a web browser.
 
 
 
-Team Members: [Jay Pandya](https://github.com/Pjay001) and [Vijay Joshi](https://github.com/VijayJoshi17)
+Team Members: [Jay Pandya](https://github.com/Pjay001), [Vijay Joshi](https://github.com/VijayJoshi17) and Hetul Shah.
